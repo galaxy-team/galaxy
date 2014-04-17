@@ -1,0 +1,9 @@
+[submodule "bodies/saturn"]
+	path = bodies/saturn
+	url = https://github.com/galaxy-team/saturn.git
+[submodule "bodies/jupiter"]
+	path = bodies/jupiter
+	url = https://github.com/galaxy-team/jupiter.git
+[submodule "bodies/pluto"]
+	path = bodies/pluto
+	url = https://github.com/galaxy-team/pluto.git
